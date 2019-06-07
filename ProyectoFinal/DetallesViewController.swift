@@ -26,6 +26,7 @@ class DetallesViewController: UIViewController
         }
     }
     
+    
     func configureView() {
         if let detallesMenu = detallesMenu {
             if let detallesDescripcionLabel = detallesDescripcionLabel, let menuImageView = menuImageView {
